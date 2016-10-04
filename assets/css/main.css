@@ -1,0 +1,20 @@
+.ui.top {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.ui.vertical.segment.top {
+    border-bottom: none;
+}
+
+.ui.cards>.card a {
+    color: white;
+}
+
+.ui.cards>.card a:hover {
+    color: #4183C4;
+}
+
+.ui.inverted.button:hover  {
+    background-color: rgba(0,0,0,.6);
+}

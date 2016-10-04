@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Your awesome title
 email: gstommaso@gmail.com
-description: Me, Blog, Photos
+description: Me, Blog, Photos, IT, Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: stsommy
-github_username:  stommaso
+github_username: stommaso
+copyright: Apache 2.0
 
 # Build settings
 markdown: kramdown
