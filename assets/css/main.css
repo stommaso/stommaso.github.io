@@ -18,3 +18,15 @@
 .ui.inverted.button:hover  {
     background-color: rgba(0,0,0,.6);
 }
+
+.ui.footer {
+    padding-top: 2em;
+}
+
+p.more-lineheight {
+    line-height: 1.5em
+}
+
+h1, h2, h3, h4, h5 {
+    color: #45b29a !important;
+}
